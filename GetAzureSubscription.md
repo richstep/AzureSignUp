@@ -8,14 +8,14 @@
 
 1.	Open a new browser tab and navigate to https://portal.azure.com. Sign-in using your work or school account. You may have created this account while following [these](README.md) instructions.
 
-2.	On the left, select COST MANAGEMENT + BILLING. Then select + NEW SUBSCRIPTION.
+2.	On the left menu, select COST MANAGEMENT + BILLING. Then select + NEW SUBSCRIPTION.
 
     ![Sign In](images/costManagementAndBilling.jpg)
 
 3.	Select FREE trial.
 
-    ![Sign In](images/freeTrial.jpg)
+    ![Sign In](images/selectAnOffer.jpg)
 
 4.	Fill out the form, verify your identity by phone and by credit card, and agree to the agreement.
 
-5.	Now prove that you own your domain name:
+5.	Now prove that you own your domain name. Instructions are [here](ProveDomainOwnership.md).

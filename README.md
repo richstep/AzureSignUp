@@ -21,5 +21,5 @@
 
     ![Sign In](images/signIn.jpg)
 
-1. Get a Microsoft Azure subscription. Instructions are [here](GetAzureSubscription.md).
+8. Get a Microsoft Azure subscription. Instructions are [here](GetAzureSubscription.md).
 
