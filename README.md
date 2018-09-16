@@ -1,4 +1,4 @@
-#Sign Your Organization Up For Microsoft's Cloud
+# Sign-up Your Organization For Microsoft's Cloud Offerings
 
 1.	Navigate to https://signup.microsoft.com.
 
@@ -16,7 +16,10 @@
 
 6.	Prove. You’re. Not. A. Robot.
 
-7.	Now you have what Microsoft calls a **work or school account** account. **Now sign in**. Use the username and password you created in step #5.
+7.	Now you have what Microsoft calls a **work or school account** account. Now **sign in**. Use the username and password you created in step #5.
 
 
-[Hi2](images/signIn.jpg)
+    ![Sign In](images/signIn.jpg)
+
+1. Get a Microsoft Azure subscription. Instructions are [here](GetAzureSubscription.md).
+
