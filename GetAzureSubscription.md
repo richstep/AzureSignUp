@@ -10,12 +10,12 @@
 
 2.	On the left menu, select COST MANAGEMENT + BILLING. Then select + NEW SUBSCRIPTION.
 
-    ![Sign In](images/costManagementAndBilling.jpg)
+    <img src="images/costManagementAndBilling.jpg" width="530">
 
-3.	Select FREE trial.
-
-    ![Sign In](images/selectAnOffer.jpg)
-
+3.	Select FREE trial.  
+    <img src="images/selectAnOffer.jpg" width="320">
+  
 4.	Fill out the form, verify your identity by phone and by credit card, and agree to the agreement.
 
 5.	Now prove that you own your domain name. Instructions are [here](ProveDomainOwnership.md).
+
