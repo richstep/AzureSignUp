@@ -1,7 +1,7 @@
 # Create an Azure Subscription
 
 ## Prerequisites: 
-- A credit or debit card.
+- A credit or debit card. Why? To keep out spam and bots; to verify your identity
 - A phone number that can receive a voice call or text message.
 
 ## Steps
